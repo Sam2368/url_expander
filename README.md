@@ -36,7 +36,7 @@ A simple Python command-line tool to expand shortened URLs. This tool fetches an
    ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]((./LICENSE)) file for details.
 
 ##   Contributing
    1. Fork the repository
